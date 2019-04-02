@@ -1,7 +1,7 @@
 # gdmp
 **gdmp** is a package built mainly in C with R interface. The package should help with Genomic Data Management and Analysis. 
 
-# To install dgmp directly from github:
+**To install gdmp directly from github:**
 ```r
 install.packages("devtools")
 library(devtools)
